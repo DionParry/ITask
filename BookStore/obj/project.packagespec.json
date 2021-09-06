@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\BookStore\\BookStore.csproj",
+    "projectUniqueName": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\ITask\\BookStore\\BookStore.csproj",
     "projectName": "BookStore",
-    "projectPath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\BookStore\\BookStore.csproj",
-    "outputPath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\BookStore\\obj\\",
+    "projectPath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\ITask\\BookStore\\BookStore.csproj",
+    "outputPath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\ITask\\BookStore\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net50"

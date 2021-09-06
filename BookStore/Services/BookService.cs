@@ -16,7 +16,7 @@ namespace BookStore.Services
             _books = database.GetCollection<Book>(settings.BooksCollectionName);
         }
 
-        public List<Book> Get() =>
+        public IEnumerable<Book> Get() =>
             _books.Find(book => true).ToList();
 
         public Book Get(string id) =>

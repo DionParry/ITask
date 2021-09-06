@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4uVyz6z+0KVkVY9bO3N7UHvJmoVR+phcvFqOpM+bBGKUx2oIzhgKsov00zRl+tLC6jchN5xxIfvyoD2gGr6WXA==",
+  "dgSpecHash": "ZLVXg+DwLoPvd9n4X/pcpOavMZXn+BFhzQofFvarWqvFGmMNj5hMw9YhLqAdswqhdp89YJBq0dZhu61LhGbJOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\BookStore\\BookStore.csproj",
+  "projectFilePath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\ITask\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dionj\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\dionj\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

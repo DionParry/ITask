@@ -1624,11 +1624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\BookStore\\BookStore.csproj",
+      "projectUniqueName": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\ITask\\BookStore\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\BookStore\\BookStore.csproj",
+      "projectPath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\ITask\\BookStore\\BookStore.csproj",
       "packagesPath": "C:\\Users\\dionj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\BookStore\\obj\\",
+      "outputPath": "C:\\Users\\dionj\\Documents\\CodingProjects\\Ivanti\\ITask\\BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dionj\\AppData\\Roaming\\NuGet\\NuGet.Config",

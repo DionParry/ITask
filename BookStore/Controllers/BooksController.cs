@@ -1,4 +1,6 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
+using BookStore.Dtos;
 using BookStore.Services;
 using BookStore.Services.Models;
 using Microsoft.AspNetCore.Cors;
@@ -19,8 +21,8 @@ namespace BookStore.Controllers
         }
 
         [HttpGet]
-        public ActionResult<List<Book>> Get() =>
-            _bookService.Get();
+        public ActionResult<List<BookDto>> Get() =>
+            _bookService.Get().Select(new BookDto().From).ToList();
 
         [HttpGet("{id:length(24)}", Name = "GetBook")]
         public ActionResult<Book> Get(string id)
